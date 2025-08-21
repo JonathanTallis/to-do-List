@@ -1,46 +1,60 @@
-# To-do List (JavaScript Puro)
+✅ Projeto To-do List – Gerenciador de Tarefas
 
-Projeto simples de **lista de tarefas** desenvolvido em **JavaScript puro**, com persistência de dados no `localStorage`.
+Este projeto foi desenvolvido como parte dos meus estudos em JavaScript puro, com o objetivo de praticar manipulação do DOM, armazenamento local e boas práticas de programação.
 
----
+A aplicação permite ao usuário criar, listar e excluir tarefas de forma simples e rápida, mantendo os dados salvos mesmo após recarregar a página.
 
-## Tecnologias
+🌐 Acesse a aplicação online:
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
+👉 Clique aqui para acessar a To-do List
 
----
+(após configurar o GitHub Pages, atualize o link acima)
 
-## Funcionalidades
+🧩 Tecnologias utilizadas
 
-- Adicionar tarefas
-- Excluir tarefas
-- Salvar no `localStorage`
-- Adicionar tarefa ao pressionar **Enter**
+HTML5
 
----
+CSS3
 
-## Demonstração
+JavaScript (ES6+)
 
-👉 Veja o projeto rodando: [To-do List Live](https://SEU-USUARIO.github.io/to-do-list/)
+LocalStorage (persistência de dados no navegador)
 
-### Preview da aplicação
+GitHub Pages (deploy gratuito)
 
-![Preview do To-do List](./assets/demo.gif)
+✨ Funcionalidades
 
----
+Adicionar tarefas ✔️
 
-## Aprendizados
+Excluir tarefas 🗑️
 
-- Manipulação do DOM
-- Uso de eventos (`click`, `keypress`)
-- Armazenamento de dados no navegador (`localStorage`)
-- Boas práticas em funções e organização de código
+Salvar lista no LocalStorage (os dados permanecem mesmo após fechar o navegador)
 
----
+Adicionar tarefa pressionando Enter
 
-## Autor
+Interface simples, responsiva e intuitiva
 
-**Jonathan Tallis Pereira de Fonte**  
-🔗 [LinkedIn](https://www.linkedin.com/in/jonathantallis) | [GitHub](https://github.com/JonathanTallis)
+📸 Preview da aplicação
+
+Aqui você pode adicionar um printscreen ou até um GIF animado mostrando o funcionamento.
+Exemplo: ![Preview To-do List](demo.gif)
+
+📚 Aprendizados
+
+Durante o desenvolvimento deste projeto, pratiquei:
+
+Manipulação do DOM com JavaScript puro
+
+Uso de event listeners para capturar interações do usuário
+
+Armazenamento e recuperação de dados com LocalStorage
+
+Estruturação de código em funções reutilizáveis
+
+Estilização com CSS moderno (flexbox, hover, transições)
+
+👨‍💻 Autor
+
+Jonathan Tallis Pereira de Fonte
+🔗 LinkedIn
+ | GitHub
