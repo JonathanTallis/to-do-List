@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte dos meus estudos em JavaScript puro, co
 A aplicação permite ao usuário criar, listar e excluir tarefas de forma simples e rápida, mantendo os dados salvos mesmo após recarregar a página.
 
 🌐 Acesse a aplicação online:
-👉 [Clique aqui para acessar a To-do List]([https://jonathantallis.github.io/to-do-List/])
+👉 [[Clique aqui para acessar a To-do List](https://jonathantallis.github.io/to-do-List/)
 
 🧩 Tecnologias utilizadas
 HTML5
