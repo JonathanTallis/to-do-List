@@ -37,7 +37,7 @@ Interface simples, responsiva e intuitiva
 📸 Preview da aplicação
 
 Aqui você pode adicionar um printscreen ou até um GIF animado mostrando o funcionamento.
-Exemplo: ![Preview To-do List](demo.gif)
+Exemplo: ![Preview To-do List](./assets/demo.gif)
 
 📚 Aprendizados
 
