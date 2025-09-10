@@ -21,7 +21,7 @@ Adicionar tarefa pressionando Enter
 Interface simples, responsiva e intuitiva
 
 📸 Preview da aplicação
-Exemplo: ![Preview To-do List](./assets/demo.gif)
+![Preview To-do List](./assets/demo.gif)
 
 📚 Aprendizados
 Durante o desenvolvimento deste projeto, pratiquei:
