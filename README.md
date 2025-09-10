@@ -3,6 +3,8 @@
 Este projeto foi desenvolvido como parte dos meus estudos em JavaScript puro, com o objetivo de praticar manipulação do DOM, armazenamento local e boas práticas de programação.
 A aplicação permite ao usuário criar, listar e excluir tarefas de forma simples e rápida, mantendo os dados salvos mesmo após recarregar a página.
 
+---
+
 ## Acesse a aplicação online:
 [To-do List](https://jonathantallis.github.io/to-do-List/)
 
